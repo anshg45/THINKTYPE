@@ -1,13 +1,4 @@
-Neeche pura ready-made `README.md` de diya hai — badges + sections sab hai.
-Bas:
-
-* `USERNAME` aur `REPO` ko apne GitHub username/repo name se replace kar dena
-* Agar tu project ka naam kuch aur rakhna chahe to heading change kar dena
-
----
-
-````markdown
-# 🧠 ThinkType P300 Speller
+ 🧠 ThinkType
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![MNE](https://img.shields.io/badge/MNE-ECoG%2FEEG%20toolkit-purple)](https://mne.tools/)
@@ -200,18 +191,4 @@ This project uses the license defined in the [`LICENSE`](LICENSE) file.
 
 ---
 
-## 📫 Contact
 
-If you use this project in research, coursework, or a demo, feel free to:
-
-* ⭐ star the repo
-* Mention / tag the repo in your work
-
-Happy brain-computing! 🧠⌨️
-
-```
-
----
-
-Agar chahe to next step mein main tere liye **short abstract**, **tagline**, ya **GitHub banner text** bhi bana sakta hoon isi project ke liye.
-```
